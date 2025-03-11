@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: आदित्य 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ah-dith-yuh
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aditya
+last_name: Parikh
 
 # Status emoji
 status:
@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Fraunhofer IAIS
+    url: https://www.iais.fraunhofer.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:adinparikh@gmail,com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ADE-17
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/adinparikh/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=39mK19EAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.mad.tf.fau.de/person/aditya-parikh/
 
 interests:
   - Artificial Intelligence
