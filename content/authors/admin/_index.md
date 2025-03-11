@@ -1,6 +1,6 @@
 ---
 # Display name
-title: आदित्य 
+title: Aditya 
 
 # Name pronunciation (optional)
 name_pronunciation: Ah-dith-yuh
@@ -26,6 +26,8 @@ role: Student Researcher
 organizations:
   - name: Fraunhofer IAIS
     url: https://www.iais.fraunhofer.de/
+  - name: Universität Erlangen-Nürnberg, FAU
+    url: https://www.fau.de/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,10 +35,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:adinparikh@gmail,com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/ADE-17
   - icon: brands/linkedin
@@ -47,68 +45,175 @@ profiles:
     url: https://www.mad.tf.fau.de/person/aditya-parikh/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence of Medicine
+  - Medical Image Processing
+  - Algorithmic fairness & Explainable AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc ACES
+    institution: Universität Erlangen-Nürnberg, FAU
+    date_start: 2022-10-01
+    date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 1.9/5.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Deep Learning - Machine Learning in Signal Processing
+      - Pattern Recognition - Algorithm & Data Representation
+      - Machine Learning I/II - Autonomous Systems
+
+      Thesis explores _Effective Disjoint Representational Learning_ to improve segmentation performance in medical imaging. Thesis paper submitted to MIDL 2025, Salt Lake City.
+    button:
+      text: 'Read Thesis Paper'
+      url: 'https://openreview.net/forum?id=bidt9WsLiE'
+
+  - area: B.Tech Electronics & Telecommunication Engineering
+    institution: Vishwakarma Institute of Technology, Pune
+    date_start: 2018-08-01
+    date_end: 2022-07-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 8.1/10.0
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant - Machine Learning
+    company_name: Fraunhofer IAIS
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed cervical vertebral maturation (CVM) classification using few-shot and contrastive learning, achieving 6% accuracy improvement.
+      - Implemented Single Positive Multi-Label (SPML) learning on medical datasets, improving annotation efficiency and model performance.
+      - Conducted statistical analysis on dental occlusion dataset, including t-tests and p-value evaluations.
+      - Supported research initiatives with validation scripts, statistical analyses, and visualization plots for publications.
+
+  - position: Master Thesis Student
+    company_name: Machine Learning & Data Analytics Lab (with Fraunhofer IAIS)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Developing novel encoder-decoder frameworks for multi-organ semantic segmentation.
+      - Investigating organ-specific decoder approaches to enhance segmentation in robot-assisted laparoscopic surgery.
+      
+  - position: Research Internship - Project Thesis
+    company_name: Machine Learning & Data Analytics Lab, Erlangen
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2024-05-31
+    summary: |
+      Responsibilities include:
+      - Developed a machine learning classification model for depression biomarker analysis.
+      - Conducted end-to-end research from data collection to model development using multimodal psychological assessments.
+      
+  - position: Research Assistant - Algorithm Development
+    company_name: Fraunhofer Institute for Integrated Circuits
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-08-31
+    summary: |
+      Responsibilities include:
+      - Developed adaptive filter algorithms for acoustic echo cancellation in automotive systems.
+      - Proposed a hybrid adaptation scheme improving convergence speed and computational efficiency.
+      
+  - position: Deep Learning Engineer - Internship
+    company_name: PixelApps.io
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-07-01
+    date_end: 2022-09-30
+    summary: |
+      Responsibilities include:
+      - Engineered a multi-face detection algorithm achieving 97% accuracy across diverse conditions.
+      - Designed an end-to-end solution improving system integration across enterprise units.
+      
+  - position: Machine Learning Engineer - Internship
+    company_name: BizAmica Softwares Private Limited
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 2022-12-31
+    summary: |
+      Responsibilities include:
+      - Co-designed an AI-powered Cognitive Document Processing system.
+      - Automated workflows reducing manual data entry time by 60% and improving accuracy.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+work:
+  - position: Research Assistant - Machine Learning
+    company_name: Fraunhofer IAIS
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Developed cervical vertebral maturation (CVM) classification using few-shot and contrastive learning, achieving 6% accuracy improvement.
+      - Implemented Single Positive Multi-Label (SPML) learning on medical datasets, improving annotation efficiency and model performance.
+      - Conducted statistical analysis on dental occlusion dataset, including t-tests and p-value evaluations.
+      - Supported research initiatives with validation scripts, statistical analyses, and visualization plots for publications.
+
+  - position: Master Thesis Student
+    company_name: Machine Learning & Data Analytics Lab (with Fraunhofer IAIS)
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-12-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Developing novel encoder-decoder frameworks for multi-organ semantic segmentation.
+      - Investigating organ-specific decoder approaches to enhance segmentation in robot-assisted laparoscopic surgery.
+      
+  - position: Research Internship - Project Thesis
+    company_name: Machine Learning & Data Analytics Lab, Erlangen
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2024-05-31
+    summary: |
+      Responsibilities include:
+      - Developed a machine learning classification model for depression biomarker analysis.
+      - Conducted end-to-end research from data collection to model development using multimodal psychological assessments.
+      
+  - position: Research Assistant - Algorithm Development
+    company_name: Fraunhofer Institute for Integrated Circuits
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-08-31
+    summary: |
+      Responsibilities include:
+      - Developed adaptive filter algorithms for acoustic echo cancellation in automotive systems.
+      - Proposed a hybrid adaptation scheme improving convergence speed and computational efficiency.
+      
+  - position: Deep Learning Engineer - Internship
+    company_name: PixelApps.io
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-07-01
+    date_end: 2022-09-30
+    summary: |
+      Responsibilities include:
+      - Engineered a multi-face detection algorithm achieving 97% accuracy across diverse conditions.
+      - Designed an end-to-end solution improving system integration across enterprise units.
+      
+  - position: Machine Learning Engineer - Internship
+    company_name: BizAmica Softwares Private Limited
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 2022-12-31
+    summary: |
+      Responsibilities include:
+      - Co-designed an AI-powered Cognitive Document Processing system.
+      - Automated workflows reducing manual data entry time by 60% and improving accuracy.
+
 skills:
   - name: Technical Skills
     items:
@@ -124,6 +229,23 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Machine Learning
+        description: ''
+        percent: 90
+        icon: brain
+      - name: Deep Learning
+        description: ''
+        percent: 85
+        icon: neural-network
+      - name: Computer Vision
+        description: ''
+        percent: 95
+        icon: eye
+      - name: Medical Image Processing
+        description: ''
+        percent: 90
+        icon: hospital
+  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,10 +266,13 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: German
     percent: 25
+  - name: Hindi
+    percent: 100
+  - name: Marathi
+    percent: 80
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
